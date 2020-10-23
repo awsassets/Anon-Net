@@ -12,7 +12,7 @@ Anon-Net是一個基於Tor的匿名網路工具，利用polipo實現Tor網路代
 
 ### 安裝：
 
-您必須首先安裝polito;
+您必須首先安裝polipo;
 
 ```bash
 git clone https://github.com/ixiniansec/Anon-Net.git
